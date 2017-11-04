@@ -1,0 +1,6 @@
+/* CSS Document */
+h1 {text-align: center;
+color:red;}
+.uselessphoto {width: auto; height:auto; }
+.thegibberish{padding: 10px; color: black }
+.everything{display: flex; display: -webkit-flex;}
